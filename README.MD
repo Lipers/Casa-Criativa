@@ -2,7 +2,7 @@
 
 A project using HTML, CSS, JavaScript.
 
-# Instalação
+## Instalação
 
 Você irá precisar do Node.JS instalado no seu computador.
 
